@@ -20,7 +20,7 @@ const Statewise = () => {
     <>
         <div className="container-fluid mt-3">
             <div className="main-heading text-center">
-            <h2>🔴LIVE</h2>
+            <h2><span className="colored-circle"/>LIVE</h2>
             <h1 className="mb-5"> <span>INDIA</span> COVID 19 DASHBOARD</h1>
             </div>
             <div className='table-responsive'>
