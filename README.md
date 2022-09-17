@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project is live hosted at https://prashant22297.github.io/Covid19-tracker .
 
 ## Available Scripts
 
